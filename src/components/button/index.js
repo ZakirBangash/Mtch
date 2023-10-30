@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   button: {
     width: '30%',
     padding: 8,
-    backgroundColor: AppPrimary, // Add your styles here
+    backgroundColor: AppPrimary,
     alignItems: 'center',
     justifyContent: 'center',
     borderRadius: 5,
